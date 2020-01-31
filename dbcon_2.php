@@ -37,6 +37,7 @@
         #undo_magic_quotes_gpc($_GET); 
         #undo_magic_quotes_gpc($_COOKIE); 
     #} 
+#tnwjdtnwjd
  
     header('Content-Type: text/html; charset=utf-8'); 
     #session_start();
